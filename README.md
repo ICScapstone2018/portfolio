@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to ICS Captsone 2018
 
-You can use the [editor on GitHub](https://github.com/ICScapstone2018/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello and welcome to our simple portfolio main page!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### This is a little about us!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our group consists of Kerensa Mattison, Jasmine Kivari, Zack Bowmann and Fiona Siu
 
 ```markdown
 Syntax highlighted code block
